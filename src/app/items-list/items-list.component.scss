@@ -1,0 +1,13 @@
+.grid-container {
+  display: flex !important; /* or inline-grid */
+  flex-wrap: wrap !important;
+  padding: 5px;}
+
+/* stylistic properties only */
+.grid-container {
+  //justify-content: center;
+  margin: 1em;
+}
+.img_pointer{
+    cursor: pointer;
+}
